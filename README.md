@@ -5,7 +5,6 @@ I build practical web applications with clean interfaces, useful workflows, and 
 ## What I'm Working On
 
 - **Job Portal** - a Django job board for recruiters and candidates
-- **Habesha Stays** - a React travel-stay discovery app for Ethiopian destinations
 - **Portfolio polish** - improving project READMEs, repo structure, and GitHub presentation
 - **Deployment practice** - preparing projects for live demos and cleaner releases
 
@@ -24,25 +23,13 @@ Skills used:
 - SQLite for local development
 - Git and GitHub project setup
 
-### Habesha Stays
-
-A React + Vite frontend project for discovering stays across Ethiopia.
-
-Skills used:
-
-- React components and state
-- JavaScript filtering logic
-- Responsive CSS layouts
-- Vite project setup
-- UI design for travel and hospitality workflows
-
 ## Skills
 
 **Backend:** Python, Django, SQLite, authentication, CRUD apps
 
-**Frontend:** JavaScript, React, HTML, CSS, responsive design
+**Frontend:** JavaScript, HTML, CSS, responsive design
 
-**Tools:** Git, GitHub, Vite, VS Code, command line basics
+**Tools:** Git, GitHub, VS Code, command line basics
 
 **Project skills:** README writing, repo cleanup, feature planning, portfolio presentation
 
