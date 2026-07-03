@@ -1,6 +1,6 @@
-# Hi, I'm Yisacor Guta 👋
+# Hi, I'm Yisacor Guta
 
-I build practical websites and web applications with clean interfaces, useful workflows, and a focus on real-world needs.
+Building practical websites and web apps with Django, JavaScript, and clean UI workflows.
 
 ## What I'm Working On
 
@@ -20,7 +20,7 @@ A Django web app where recruiters can post jobs and candidates can browse, filte
 - Git and GitHub project setup
 
 ### [Souq](https://github.com/LeulSewale/Souq)
-A Flutter-based ecommerce app. Contributed search & filtering functionality and user authentication/profile features.
+A Flutter-based ecommerce app I contributed to, including search and filtering functionality plus user authentication/profile features.
 
 **Skills used:**
 - Flutter (Dart)
@@ -30,20 +30,20 @@ A Flutter-based ecommerce app. Contributed search & filtering functionality and 
 
 ## Skills
 
-**Frontend:** HTML, CSS, JavaScript, responsive design, Flutter/Dart
+**Frontend:** HTML, CSS, JavaScript, responsive design
 
-**Backend:** Python, Django, SQLite, Firebase, authentication, CRUD apps
+**Backend:** Python, Django, SQLite, authentication, CRUD apps
 
 **Tools:** Git, GitHub, VS Code, command line basics
 
 **Website work:** page structure, navigation, layout polish, content organization, deployment prep
 
-## Currently Leveling Up
+## Current Focus
 
-- Improving responsiveness and accessibility across sites
-- Building cleaner navigation and page layouts
-- Adding screenshots and live links to finished projects
-- Keeping repos organized and easy to run
+- Building polished website experiences for DPMS and AAECMY
+- Improving responsive layouts, navigation, and content structure
+- Preparing projects for clean public releases
+- Keeping repositories organized and easy to understand
 
 ## Connect
 
