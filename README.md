@@ -1,37 +1,49 @@
-# Hi, I'm Yisacor Guta
+# Hi, I'm Yisacor Guta 👋
 
 I build practical websites and web applications with clean interfaces, useful workflows, and a focus on real-world needs.
 
 ## What I'm Working On
 
-- **DPMS website** - building and improving a web presence for the DPMS project
-- **AAECMY site** - working on a website experience for AAECMY
-- **Deployment practice** - preparing sites for cleaner releases and public access
+- **DPMS website** — building and improving a web presence for the DPMS project
+- **AAECMY site** — developing a website experience for AAECMY
+- Sharpening deployment skills to move projects from local dev to clean, public releases
 
-## Current Skills
+## Featured Projects
 
-**Frontend:** HTML, CSS, JavaScript, responsive design
+### [job-portal](https://github.com/yisacor/job-portal)
+A Django web app where recruiters can post jobs and candidates can browse, filter, and apply.
 
-**Mobile:** Flutter, cross-platform app UI
+**Skills used:**
+- Python and Django (models, views, forms, templates, migrations)
+- User authentication and role-based flows for recruiters vs. candidates
+- SQLite for local development
+- Git and GitHub project setup
 
-**Backend:** Python, Django, SQLite, authentication, CRUD apps
+### [Souq](https://github.com/LeulSewale/Souq)
+A Flutter-based ecommerce app. Contributed search & filtering functionality and user authentication/profile features.
+
+**Skills used:**
+- Flutter (Dart)
+- Firebase (auth and backend)
+- Search and filter logic
+- Collaborative development on a multi-contributor codebase
+
+## Skills
+
+**Frontend:** HTML, CSS, JavaScript, responsive design, Flutter/Dart
+
+**Backend:** Python, Django, SQLite, Firebase, authentication, CRUD apps
 
 **Tools:** Git, GitHub, VS Code, command line basics
 
-**Website work:** page structure, navigation, layout polish, content organization, deployment preparation
+**Website work:** page structure, navigation, layout polish, content organization, deployment prep
 
-## Contributions
+## Currently Leveling Up
 
-### [Souq](https://github.com/LeulSewale/Souq)
-
-An ecommerce Flutter app I contributed to, adding hands-on experience with mobile UI, app structure, and collaborative development.
-
-## Learning Goals
-
-- Improve website responsiveness and accessibility
-- Build cleaner navigation and page layouts
-- Add screenshots and live links to finished projects
-- Keep project repositories organized and easy to run
+- Improving responsiveness and accessibility across sites
+- Building cleaner navigation and page layouts
+- Adding screenshots and live links to finished projects
+- Keeping repos organized and easy to run
 
 ## Connect
 
