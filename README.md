@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi, I'm Yisacor Guta
 
-<!--
-**yisacor/yisacor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build practical web applications with clean interfaces, useful workflows, and a focus on real-world problems.
 
-Here are some ideas to get you started:
+## What I'm Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Job Portal** - a Django job board for recruiters and candidates
+- **Habesha Stays** - a React travel-stay discovery app for Ethiopian destinations
+- **Portfolio polish** - improving project READMEs, repo structure, and GitHub presentation
+- **Deployment practice** - preparing projects for live demos and cleaner releases
+
+## Featured Projects
+
+### [Job Portal](https://github.com/yisacor/job-portal)
+
+A Django web app where recruiters can post jobs and candidates can browse, filter, and apply.
+
+Skills used:
+
+- Python and Django
+- Django models, views, forms, templates, and migrations
+- User authentication
+- Role-based flows for recruiters and candidates
+- SQLite for local development
+- Git and GitHub project setup
+
+### Habesha Stays
+
+A React + Vite frontend project for discovering stays across Ethiopia.
+
+Skills used:
+
+- React components and state
+- JavaScript filtering logic
+- Responsive CSS layouts
+- Vite project setup
+- UI design for travel and hospitality workflows
+
+## Skills
+
+**Backend:** Python, Django, SQLite, authentication, CRUD apps
+
+**Frontend:** JavaScript, React, HTML, CSS, responsive design
+
+**Tools:** Git, GitHub, Vite, VS Code, command line basics
+
+**Project skills:** README writing, repo cleanup, feature planning, portfolio presentation
+
+## Learning Goals
+
+- Deploy Django and React projects
+- Improve UI polish and mobile responsiveness
+- Add screenshots and live demo links to every project
+- Build more complete full-stack applications
+
+## Connect
+
+- GitHub: [github.com/yisacor](https://github.com/yisacor)
