@@ -12,11 +12,19 @@ I build practical websites and web applications with clean interfaces, useful wo
 
 **Frontend:** HTML, CSS, JavaScript, responsive design
 
+**Mobile:** Flutter, cross-platform app UI
+
 **Backend:** Python, Django, SQLite, authentication, CRUD apps
 
 **Tools:** Git, GitHub, VS Code, command line basics
 
 **Website work:** page structure, navigation, layout polish, content organization, deployment preparation
+
+## Contributions
+
+### [Souq](https://github.com/LeulSewale/Souq)
+
+An ecommerce Flutter app I contributed to, adding hands-on experience with mobile UI, app structure, and collaborative development.
 
 ## Learning Goals
 
